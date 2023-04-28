@@ -1,0 +1,10 @@
+{
+    "name": "aluno/p-wll",
+    "type": "projetopw",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
